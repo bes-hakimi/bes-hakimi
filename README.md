@@ -49,6 +49,20 @@ I love combining clean design with solid code to create exceptional digital expe
       </a>
     </td>
     <td align="center">
+      <a href="https://zar-gold.vercel.app" target="_blank">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/afghan-kala.png" alt="ZarGold" width="96" height="96""/>
+        <br/>
+        <strong>Afghan Kala</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://management-ledger.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/afghan-kala.png" alt="Management Ledger" width="96" height="96""/>
+        <br/>
+        <strong>Afghan Kala</strong>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://bookstore-lime-rho.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/bookstore.png" alt="Bookstore" width="96" height="96"/>
         <br/>
