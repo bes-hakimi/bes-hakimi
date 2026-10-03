@@ -10,7 +10,7 @@
 
 # I'm Besmillah
 
-*Front-end Developer*
+*Frontend Software Engineer*
 
 I build modern, responsive, and user-friendly web applications with **React, Next.js, TypeScript**, and **TailwindCSS**.  
 I love combining clean design with solid code to create exceptional digital experiences.  
