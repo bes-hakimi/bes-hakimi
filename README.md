@@ -2,59 +2,35 @@
 <p align="center">
   <img
     src="https://github.com/bes-hakimi/bes-hakimi/blob/main/assets/banner/github-banner.png"
-    alt="Besmillah Hakimi — Frontend Software Engineer"
+    alt="Besmillah Hakimi"
     width="100%"
   />
 </p>
 
-<!-- Animated Intro -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Frontend+Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Frontend+Software+Engineer;React+%7C+Next.js+%7C+TypeScript"
     alt="Frontend Software Engineer"
   />
 </p>
 
-<h1 align="center">Hi, I'm Besmillah Hakimi 👋</h1>
+# I'm Besmillah
 
-<p align="center">
-  <strong>Frontend Software Engineer</strong>
-</p>
+Frontend Software Engineer working mainly with React, Next.js and TypeScript.
 
-<p align="center">
-  I build modern, responsive, and user-friendly web applications
-  with a focus on clean UI, maintainable code, and great user experiences.
-</p>
-
-<p align="center">
-  <a href="https://besmillah-hakimi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/besmillah-hakimi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hakimi.work2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I build responsive web applications with a focus on clean interfaces, maintainable code and practical user experiences.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Frontend Software Engineer focused on building fast, accessible,
-and scalable web applications.
+I work primarily on frontend applications and enjoy turning designs into functional products. Most of my projects involve React, Next.js, TypeScript and Tailwind CSS.
 
-- ⚛️ Building applications with **React & Next.js**
-- 🔷 Writing reliable, maintainable code with **TypeScript**
-- 🎨 Creating responsive interfaces with **Tailwind CSS**
-- 🧩 Turning **Figma designs** into production-ready applications
-- 🚀 Interested in performance, usability, and modern frontend architecture
-- 🌱 Continuously improving my frontend engineering skills
+I'm interested in frontend architecture, UI development and building applications that solve real problems.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -69,34 +45,57 @@ and scalable web applications.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table align="center">
   <tr>
     <td align="center" width="25%">
       <a href="https://hewadhela.com/">
-        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/hewad-hela.png" width="90" height="90" alt="Hewad Hela" />
+        <img
+          src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/hewad-hela.png"
+          alt="Hewad Hela"
+          width="90"
+          height="90"
+        />
         <br />
         <strong>Hewad Hela</strong>
       </a>
     </td>
+
     <td align="center" width="25%">
       <a href="https://afghan-kala.com/">
-        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/afghan-kala.png" width="90" height="90" alt="Afghan Kala" />
+        <img
+          src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/afghan-kala.png"
+          alt="Afghan Kala"
+          width="90"
+          height="90"
+        />
         <br />
         <strong>Afghan Kala</strong>
       </a>
     </td>
+
     <td align="center" width="25%">
       <a href="https://zar-gold.vercel.app/">
-        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/zargold.png" width="90" height="90" alt="ZarGold" />
+        <img
+          src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/zargold.png"
+          alt="ZarGold"
+          width="90"
+          height="90"
+        />
         <br />
         <strong>ZarGold</strong>
       </a>
     </td>
+
     <td align="center" width="25%">
       <a href="https://management-ledger.vercel.app/">
-        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/carpet.png" width="90" height="90" alt="Carpet Management" />
+        <img
+          src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/carpet.png"
+          alt="Carpet Management"
+          width="90"
+          height="90"
+        />
         <br />
         <strong>Carpet Management</strong>
       </a>
@@ -106,28 +105,51 @@ and scalable web applications.
   <tr>
     <td align="center">
       <a href="https://bookstore-lime-rho.vercel.app/">
-        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/bookstore.png" width="90" height="90" alt="Bookstore App" />
+        <img
+          src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/bookstore.png"
+          alt="Bookstore App"
+          width="90"
+          height="90"
+        />
         <br />
         <strong>Bookstore App</strong>
       </a>
     </td>
+
     <td align="center">
       <a href="https://code-brand.vercel.app/">
-        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/code-brand.png" width="90" height="90" alt="Code Brand" />
+        <img
+          src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/code-brand.png"
+          alt="Code Brand"
+          width="90"
+          height="90"
+        />
         <br />
         <strong>Code Brand</strong>
       </a>
     </td>
+
     <td align="center">
       <a href="https://admin-dashboard-vpwf.vercel.app/">
-        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/admin-dashboard.png" width="90" height="90" alt="Admin Dashboard" />
+        <img
+          src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/admin-dashboard.png"
+          alt="Admin Dashboard"
+          width="90"
+          height="90"
+        />
         <br />
         <strong>Admin Dashboard</strong>
       </a>
     </td>
+
     <td align="center">
       <a href="https://besmillah-hakimi.vercel.app/">
-        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/portfolio.png" width="90" height="90" alt="Portfolio" />
+        <img
+          src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/portfolio.png"
+          alt="Portfolio"
+          width="90"
+          height="90"
+        />
         <br />
         <strong>Portfolio</strong>
       </a>
@@ -137,52 +159,44 @@ and scalable web applications.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img
-    height="160"
+    height="150"
     src="https://streak-stats.demolab.com?user=bes-hakimi&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
   <img
-    height="160"
+    height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bes-hakimi&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bes-hakimi&bg_color=0f172a&color=06b6d4&line=22d3ee&point=06b6d4&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  I'm open to collaborating on interesting web projects and connecting
-  with other developers.
-</p>
+## Contact
 
 <p align="center">
   <a href="mailto:hakimi.work2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/besmillah-hakimi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-</p>
 
----
-
-<p align="center">
-  <i>"Design is intelligence made visible — and code is how we make it real."</i>
-</p>
-
-<p align="center">
-  From <a href="https://github.com/bes-hakimi">Besmillah Hakimi</a>
+  <a href="https://besmillah-hakimi.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
 </p>
