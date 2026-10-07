@@ -49,35 +49,8 @@ I'm interested in frontend architecture, UI development and building application
 
 <p align="center">
   <a href="https://hewadhela.com/">
-    <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/hewad-hela.png" alt="Hewad Hela" width="90" height="90" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://afghan-kala.com/">
-    <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/afghan-kala.png" alt="Afghan Kala" width="90" height="90" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://zar-gold.vercel.app/">
-    <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/zargold.png" alt="ZarGold" width="90" height="90" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://management-ledger.vercel.app/">
-    <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/carpet.png" alt="Carpet Management" width="90" height="90" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://bookstore-lime-rho.vercel.app/">
-    <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/bookstore.png" alt="Bookstore App" width="90" height="90" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://code-brand.vercel.app/">
-    <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/code-brand.png" alt="Code Brand" width="90" height="90" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://admin-dashboard-vpwf.vercel.app/">
-    <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/admin-dashboard.png" alt="Admin Dashboard" width="90" height="90" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://besmillah-hakimi.vercel.app/">
-    <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/portfolio.png" alt="Portfolio" width="90" height="90" />
+    <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/hewad-hela.png" width="90" height="90" alt="Hewad Hela"><br>
+    Hewad Hela
   </a>
 </p>
 
