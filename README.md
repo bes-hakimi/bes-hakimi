@@ -62,7 +62,7 @@ I'm interested in frontend architecture, UI development and building application
       </a>
     </td>
 
-    <td align="center" width="25%">
+  <td align="center" width="25%">
       <a href="https://afghan-kala.com/">
         <img
           src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/afghan-kala.png"
@@ -75,7 +75,7 @@ I'm interested in frontend architecture, UI development and building application
       </a>
     </td>
 
-    <td align="center" width="25%">
+  <td align="center" width="25%">
       <a href="https://zar-gold.vercel.app/">
         <img
           src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/zargold.png"
@@ -88,7 +88,7 @@ I'm interested in frontend architecture, UI development and building application
       </a>
     </td>
 
-    <td align="center" width="25%">
+  <td align="center" width="25%">
       <a href="https://management-ledger.vercel.app/">
         <img
           src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/carpet.png"
@@ -116,7 +116,7 @@ I'm interested in frontend architecture, UI development and building application
       </a>
     </td>
 
-    <td align="center">
+  <td align="center">
       <a href="https://code-brand.vercel.app/">
         <img
           src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/code-brand.png"
@@ -129,7 +129,7 @@ I'm interested in frontend architecture, UI development and building application
       </a>
     </td>
 
-    <td align="center">
+  <td align="center">
       <a href="https://admin-dashboard-vpwf.vercel.app/">
         <img
           src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/admin-dashboard.png"
@@ -142,7 +142,7 @@ I'm interested in frontend architecture, UI development and building application
       </a>
     </td>
 
-    <td align="center">
+   <td align="center">
       <a href="https://besmillah-hakimi.vercel.app/">
         <img
           src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/portfolio.png"
