@@ -47,12 +47,66 @@ I'm interested in frontend architecture, UI development and building application
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://hewadhela.com/">
-    <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/hewad-hela.png" width="90" height="90" alt="Hewad Hela"><br>
-    Hewad Hela
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://hewadhela.com/">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/hewad-hela.png" width="90" height="90" alt="Hewad Hela"/>
+        <br/>
+        <strong>Hewad Hela</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://afghan-kala.com/">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/afghan-kala.png" width="90" height="90" alt="Afghan Kala"/>
+        <br/>
+        <strong>Afghan Kala</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://zar-gold.vercel.app/">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/zargold.png" width="90" height="90" alt="ZarGold"/>
+        <br/>
+        <strong>ZarGold</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://management-ledger.vercel.app/">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/carpet.png" width="90" height="90" alt="Carpet Management"/>
+        <br/>
+        <strong>Carpet Management</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://bookstore-lime-rho.vercel.app/">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/bookstore.png" width="90" height="90" alt="Bookstore App"/>
+        <br/>
+        <strong>Bookstore App</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code-brand.vercel.app/">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/code-brand.png" width="90" height="90" alt="Code Brand"/>
+        <br/>
+        <strong>Code Brand</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://admin-dashboard-vpwf.vercel.app/">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/admin-dashboard.png" width="90" height="90" alt="Admin Dashboard"/>
+        <br/>
+        <strong>Admin Dashboard</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://besmillah-hakimi.vercel.app/">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/portfolio.png" width="90" height="90" alt="Portfolio"/>
+        <br/>
+        <strong>Portfolio</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
