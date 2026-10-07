@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Frontend+Software+Engineer;React+%7C+Next.js+%7C+TypeScript"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Frontend+Software+Engineer"
     alt="Frontend Software Engineer"
   />
 </p>
